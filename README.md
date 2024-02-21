@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **APIs and new programming languages**
 
-- 📫 How to reach me **cl202202@g.unicamp.br**
+- 📫 How to reach me **enzopazian1402@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
