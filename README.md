@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enzo!</h1>
 <h3 align="center">I'm studying Software Engineering at PUC-Campinas</h3>
 
-- 📖 I've worked on **a scientific initiation at UNICAMP about an online platform aimed to recycling and reuse**
+- 📖 I've worked on **a scientific initiation at COTIL - UNICAMP about an online platform aimed to recycling and reuse**
 
 - 🖥️ I've studied **system development at COTIL - UNICAMP and became a technician**
 
