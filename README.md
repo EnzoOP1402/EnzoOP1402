@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:335c76,100:5b825d&fontColor=f4f4f4&height=250&section=header&text=Hi%20there!👋&fontSize=75&animation=fadeIn)
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:335c76,100:5b825d&fontColor=f4f4f4&height=250&section=header&text=Hi%20there!👋&fontSize=75&animation=fadeIn" />
+</p>
 
 ### **`📖 Currently studying Software Enginnering at PUC Campinas`**
 
@@ -88,4 +90,6 @@ My name is **Enzo Olivato Pazian**, I'm a software engineering student passionat
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoOP1402&theme=tokyonight&layout=compact"
 />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:335c76,100:5b825d&height=150&section=footer&fontSize=75&animation=fadeIn)
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:335c76,100:5b825d&height=150&section=footer&fontSize=75&animation=fadeIn" />
+</p>
